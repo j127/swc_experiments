@@ -1,0 +1,14 @@
+{
+    "name": "swc_experiments",
+    "version": "1.0.0",
+    "description": "Experimenting with SWC",
+    "main": "index.js",
+    "author": "Josh",
+    "license": "MIT",
+    "private": true,
+    "devDependencies": {
+        "@swc/cli": "^0.1.55",
+        "@swc/core": "^1.2.121",
+        "prettier": "^2.5.1"
+    }
+}
