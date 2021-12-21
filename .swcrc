@@ -1,0 +1,16 @@
+{
+    "env": {
+        "coreJs": 3
+    },
+    "minify": true,
+    "jsc": {
+        "parser": {
+            "syntax": "typescript"
+        },
+        "minify": {
+            "compress": true,
+            "mangle": true
+        }
+    },
+    "sourceMaps": false
+}

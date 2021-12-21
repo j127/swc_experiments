@@ -6,6 +6,9 @@
     "author": "Josh",
     "license": "MIT",
     "private": true,
+    "scripts": {
+        "start": "swc ./src/index.ts -d dist -f bundle.js"
+    },
     "devDependencies": {
         "@swc/cli": "^0.1.55",
         "@swc/core": "^1.2.121",
