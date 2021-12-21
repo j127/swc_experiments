@@ -2,7 +2,6 @@
     "name": "swc_experiments",
     "version": "1.0.0",
     "description": "Experimenting with SWC",
-    "main": "src/index.ts",
     "author": "Josh",
     "license": "MIT",
     "private": true,
@@ -14,6 +13,7 @@
         "@swc/core": "^1.2.121",
         "browserslist": "^4.19.1",
         "chokidar": "^3.5.2",
+        "parcel": "^2.0.1",
         "prettier": "^2.5.1"
     }
 }
